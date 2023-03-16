@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Juan</h1>
-<h3 align="center">I am a young enthusiastic Software Engineer based in Argentina with more than 4 years of experience in the industry and a rewarding path through academia, both in Argentina and abroad.</h3>
+<h5 align="center">
+Experienced Full Stack Developer with a strong background in React, Node.js and Typescript. Skilled in developing end-to-end web applications using   modern technologies and frameworks. Proficient in front-end technologies such as HTML, CSS, and JavaScript, as well as back-end technologies such as Express.js, MongoDB, and PostgreSQL. Able to design and develop secured RESTful or GraphQL APIs and implement authentication and authorization mechanisms. Familiar with agile development methodologies and experience working in a team environment. Passionate about learning new technologies and continuously improving skills.
+
+#  
+</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juandahl&label=Profile%20views&color=0e75b6&style=flat" alt="juandahl" /> </p>
 
